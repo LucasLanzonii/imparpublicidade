@@ -8218,22 +8218,22 @@ body:not(.wpb-js-composer) .ts-col-24 #primary > .vc_row.loading{
 	text-decoration: none
 }
 .gridlist-toggle a#grid{
-	background-image: url(images/grid-list-icon.png);
+	background-image: url(../images/grid-list-icon.png);
 	background-position: 0 0;
 	background-repeat: no-repeat;
 }
 .gridlist-toggle a#grid:hover,
 .gridlist-toggle a#grid.active{
-	background-image: url(images/grid-list-icon-hover.png);
+	background-image: url(../images/grid-list-icon-hover.png);
 }
 .gridlist-toggle a#list{
-	background-image: url(images/grid-list-icon.png);
+	background-image: url(../images/grid-list-icon.png);
 	background-position: -50px 0;
 	background-repeat: no-repeat;
 }
 .gridlist-toggle a#list:hover,
 .gridlist-toggle a#list.active{
-	background-image: url(images/grid-list-icon-hover.png);
+	background-image: url(../images/grid-list-icon-hover.png);
 }
 .gridlist-toggle a span{
 	display: none;
@@ -8849,7 +8849,7 @@ div.product.thumbnail-summary-top_thumbnail_slider ul.tabs-in-summary .woocommer
 .ts-product-video-button,
 .ts-product-360-button{
 	float: none !important;
-	background: url(images/icon-video.png) center no-repeat !important;
+	background: url(../images/icon-video.png) center no-repeat !important;
 	margin: 20px auto 0 auto !important;
 	text-align: center;
 	display: block;
@@ -8859,7 +8859,7 @@ div.product.thumbnail-summary-top_thumbnail_slider ul.tabs-in-summary .woocommer
 	text-decoration: none !important;
 }
 .ts-product-360-button{
-	background: url(images/icon-360.png) center no-repeat !important;
+	background: url(../images/icon-360.png) center no-repeat !important;
 }
 .ts-product-video-button:hover,
 .ts-product-360-button:hover{
@@ -13535,7 +13535,7 @@ body .div#main{
 	min-height: 0;
 }
 body.error404 .fullwidth-template{
-	background: url(images/bg-404.png) center bottom no-repeat;
+	background: url(../images/bg-404.png) center bottom no-repeat;
 	background-size: cover;
 }
 body.error404 article{
@@ -13612,7 +13612,7 @@ body.error404 article > p{
 		bottom: -20px;
 		content: "";
 		height: 20px;
-		background-image: url(images/shadow-header.png);
+		background-image: url(../images/shadow-header.png);
 		background-position: top left;
 		display: block;
 	}

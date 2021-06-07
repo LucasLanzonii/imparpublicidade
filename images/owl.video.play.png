@@ -71,7 +71,7 @@ img.emoji {
 			/* <![CDATA[ */
 			var rcewpp = {
 				"ajax_url":"http://127.0.0.1/wp/wp-admin/admin-ajax.php",
-				"nonce": "61f68d6f11",
+				"nonce": "80f013a80a",
 				"home_url": "http://127.0.0.1/wp"
 			};
 			/* ]]\> */
@@ -184,14 +184,14 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_aja
 			<div class="ts-search-by-category ts-sidebar-content woocommerce">
 				<h2 class="title">Search </h2>
 				<span class="close"></span>
-				<form method="get" action="http://127.0.0.1/wp/" id="searchform-665">
+				<form method="get" action="http://127.0.0.1/wp/" id="searchform-906">
 	<div class="search-table">
 		<div class="search-field search-content">
-			<input type="text" value="" name="s" id="s-665" placeholder="Search for products" autocomplete="off" />
+			<input type="text" value="" name="s" id="s-906" placeholder="Search for products" autocomplete="off" />
 						<input type="hidden" name="post_type" value="product" />
 					</div>
 		<div class="search-button">
-			<input type="submit" id="searchsubmit-665" value="Search" />
+			<input type="submit" id="searchsubmit-906" value="Search" />
 		</div>
 	</div>
 </form>				<div class="ts-search-result-container"></div>
@@ -344,14 +344,14 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_aja
 					<h1 class="heading-font-1">404</h1>
 					<h2 class="heading-font-2">Oops! Page Not Found</h2>
 					<p class="ts-description-2">The link you clicked might be corrupted, or the page may have been removed. You can back to homepage or seach anything.</p>
-					<form method="get" action="http://127.0.0.1/wp/" id="searchform-118">
+					<form method="get" action="http://127.0.0.1/wp/" id="searchform-591">
 	<div class="search-table">
 		<div class="search-field search-content">
-			<input type="text" value="" name="s" id="s-118" placeholder="Search for products" autocomplete="off" />
+			<input type="text" value="" name="s" id="s-591" placeholder="Search for products" autocomplete="off" />
 						<input type="hidden" name="post_type" value="product" />
 					</div>
 		<div class="search-button">
-			<input type="submit" id="searchsubmit-118" value="Search" />
+			<input type="submit" id="searchsubmit-591" value="Search" />
 		</div>
 	</div>
 </form>				</article>
@@ -532,7 +532,7 @@ window.lodash = _.noConflict();
 <script type='text/javascript' src='http://127.0.0.1/wp/wp-includes/js/dist/api-fetch.min.js?ver=a783d1f442d2abefc7d6dbd156a44561' id='wp-api-fetch-js'></script>
 <script type='text/javascript' id='wp-api-fetch-js-after'>
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://127.0.0.1/wp/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "76c874b3ec" );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "9550207716" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "http://127.0.0.1/wp/wp-admin/admin-ajax.php?action=rest-nonce";
